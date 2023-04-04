@@ -1,2 +1,2 @@
 # Python-Review-Exercise-2-Lists
-Lists Exercise
+Removes Duplicates from given input by user using lists
